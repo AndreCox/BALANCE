@@ -1,0 +1,8 @@
+package exlcm;
+
+struct example_t
+{
+    double   accl[3];
+    double   gyro[3];
+    double   mag[3];
+}
