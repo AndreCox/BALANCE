@@ -1,6 +1,6 @@
-package exlcm;
+package imu_lcm;
 
-struct example_t
+struct imu_t
 {
     double   accl[3];
     double   gyro[3];
