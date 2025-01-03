@@ -14,8 +14,9 @@ int_l = [20, 21]
 GPIO.setmode(GPIO.BOARD)
 
 # set up the GPIO pins as outputs for the motors DRV8871 driver
-GPIO.setup(int_r, GPIO.OUT)
-GPIO.setup(int_l, GPIO.OUT)
+for i in range(2):
+    GPIO.setup(int_r[i], GPIO.OUT)
+    GPIO.setup(int_l[i], GPIO.OUT)
 
 # Now just to test make a loop that turns the motors on and off 
 # back and forth
