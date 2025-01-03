@@ -11,12 +11,11 @@ lc = lcm.LCM()
 int_r = [26, 19]
 int_l = [20, 21]
 
-GPIO.setmode(GPIO.BOARD)
+GPIO.setmode(GPIO.BCM)
 
 # set up the GPIO pins as outputs for the motors DRV8871 driver
-for i in range(2):
-    GPIO.setup(int_r[i], GPIO.OUT)
-    GPIO.setup(int_l[i], GPIO.OUT)
+GPIO.setup(int_r, GPIO.OUT)
+GPIO.setup(int_l, GPIO.OUT)
 
 # Now just to test make a loop that turns the motors on and off 
 # back and forth
