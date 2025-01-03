@@ -1,0 +1,7 @@
+package imu_lcm;
+
+struct imu_t
+{
+    double   speed_l;
+    double   speed_l;
+}
