@@ -7,7 +7,7 @@ sys.path.append('../')
 import LCM.imu_lcm as imu_lcm
 
 lc = lcm.LCM()
-bmx160 = imu.BMX160()
+bmx160 = imu.BMX160(1)
 
 while True:
     try:
@@ -19,6 +19,7 @@ while True:
         time.sleep(1)
         pass
 
+print("Starting LCM IMU routine")
 while True:
     all_sensor_data = bmx160.get_all_data()
     mag = all_sensor_data[0:3]
@@ -32,6 +33,5 @@ while True:
         msg.accl = accl
 
         lc.publish("SENSOR_DATA", msg.encode())
-        print(f"Published: {msg}")
     except Exception as e:
         print(f"Error publishing data: {e}")
