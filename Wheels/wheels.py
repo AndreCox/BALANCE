@@ -47,15 +47,17 @@ def wheels_handler(channel, data):
     speed_l = msg.speed_l
     speed_r = msg.speed_r
 
-    print(f"Received speed: Left = {speed_l}, Right = {speed_r}")
-
     # Ensure values are within -1 to 1 range
     speed_l = max(min(speed_l, 1), -1)
     speed_r = max(min(speed_r, 1), -1)
 
+    print(f"Received speed: Left = {speed_l}, Right = {speed_r}")
+
     # Convert the -1 to 1 speed into 0 to 100 PWM duty cycle
     pwm_left_duty = (speed_l + 1) * 50  # Mapping [-1, 1] to [0, 100]
     pwm_right_duty = (speed_r + 1) * 50  # Mapping [-1, 1] to [0, 100]
+
+    print(f"Setting PWM: Left = {pwm_left_duty}, Right = {pwm_right_duty}")
 
     # Set PWM for left and right motors
     if speed_l >= 0:
