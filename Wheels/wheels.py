@@ -16,6 +16,10 @@ int_l = [20, 16]  # Left motor control pins
 # Setup GPIO for BCM mode
 GPIO.setmode(GPIO.BCM)
 
+# Set up GPIO pins for motor control
+GPIO.setup(int_r, GPIO.OUT)
+GPIO.setup(int_l, GPIO.OUT)
+
 p1 = GPIO.PWM(int_r[0], 100)
 p2 = GPIO.PWM(int_r[1], 100)
 p3 = GPIO.PWM(int_l[0], 100)
