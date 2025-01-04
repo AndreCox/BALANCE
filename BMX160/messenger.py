@@ -32,6 +32,6 @@ while True:
         msg.gyro = gyro
         msg.accl = accl
 
-        lc.publish("SENSOR_DATA", msg.encode())
+        lc.publish("IMU", msg.encode())
     except Exception as e:
         print(f"Error publishing data: {e}")
