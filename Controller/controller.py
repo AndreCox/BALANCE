@@ -9,7 +9,7 @@ def ramp_speed():
     lc = lcm.LCM()
 
     # Ramp parameters
-    ramp_duration = 2.0  # Time to ramp from -1 to 1 in seconds
+    ramp_duration = 10.0  # Time to ramp from -1 to 1 in seconds
     step_interval = 0.05  # Time between steps in seconds
 
     # Calculate the step size for each interval
