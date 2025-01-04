@@ -18,6 +18,7 @@ def imu_handler(channel, data):
     msg = imu_lcm.imu_t.decode(data)
     with lock:
         imu_data = msg
+    print(f"Received IMU data: {msg}")
 
 
 def control_loop():
