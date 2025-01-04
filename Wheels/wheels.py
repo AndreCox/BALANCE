@@ -31,6 +31,7 @@ pwm_l[0].start(0)
 pwm_l[1].start(0)
 
 def wheels_handler(channel, data):
+    print("Received message on channel \"%s\"" % channel)
     msg = wheels_lcm.wheels_t.decode(data)
     
     # Calculate PWM duty cycle based on speed values

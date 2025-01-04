@@ -40,6 +40,7 @@ def publish_speed(lc, speed_l, speed_r):
     msg.speed_r = speed_r
 
     # Publish the message
+    print(f"Publishing speed: Left = {speed_l}, Right = {speed_r}")
     lc.publish("WHEELS", msg.encode())
 
 if __name__ == "__main__":
