@@ -43,6 +43,7 @@ def control_loop():
                 if imu_data is None:
                     continue
                 tilt_error = imu_data.gyro[2]  # Use z-axis gyro as tilt feedback
+            print(f"Tilt error: {tilt_error}")
 
             # Compute PID output
             correction = pid(tilt_error)
@@ -51,6 +52,7 @@ def control_loop():
             left_speed = correction
             right_speed = -correction
 
+            print(f"Computed speeds: Left = {left_speed}, Right = {right_speed}")
             publish_speed(lc, left_speed, right_speed)
 
             time.sleep(0.05)  # Control loop interval
