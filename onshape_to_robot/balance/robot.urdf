@@ -1,0 +1,1921 @@
+<robot name="onshape">
+<link name="blue_wheel_with_adapter">
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smbinductor470.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor331.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdled.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor_1.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smbinductor470.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor_1.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor102.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdled.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smbinductor470.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor102.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor_1.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor331.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor331.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor102.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.14436355865930347586 -0.043734347644674063937 -0.07965815597854547514" rpy="-2.6991769814727217813 -0.1745329251994363895 0.4175388101929624618" />
+<geometry>
+<mesh filename="package:///blue_wheel_frame.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.14453493206363229873 -0.043349635347440303168 -0.07965449661718279617" rpy="1.7453359078730392717 0.0086886310093941456628 -1.1517254373766112607" />
+<geometry>
+<mesh filename="package:///65mm_tire.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.14139310161515186715 -0.042415992193645446484 -0.079085160213732338952" rpy="1.7458942850595355889 -0.07994709484060569249 -1.1673849268380422917" />
+<geometry>
+<mesh filename="package:///motor_adapter.stl"/>
+</geometry>
+</collision>
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0"/>
+<mass value="0" />
+<inertia ixx="0" ixy="0"  ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual><geometry><box size="0 0 0" /></geometry></visual>
+</link>
+
+<link name="blue_wheel_with_adapter_1">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smbinductor470.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_1_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_1_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_1" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_2">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_2_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_2_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_2" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_3">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_3_visual_material">
+<color rgba="0.0078431372549019606755 0.36470588235294115753 0.82352941176470584317 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_3_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_3" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_4">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_4_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_4_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_4" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_5">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_5_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_5_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_5" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_6">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_6_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_6_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_6" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_7">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_7_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_7_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_7" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_8">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor331.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_8_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_8_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_8" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_9">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_9_visual_material">
+<color rgba="0.078431372549019606755 0.078431372549019606755 0.078431372549019606755 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_9_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_9" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_10">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_10_visual_material">
+<color rgba="0.11764705882352941013 0.11764705882352941013 0.11764705882352941013 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_10_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_10" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_11">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_11_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_11_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_11" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_12">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_12_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_12_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_12" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_13">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_13_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_13_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_13" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_14">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_14_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_14_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_14" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_15">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_15_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_15_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_15" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_16">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdled.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_16_visual_material">
+<color rgba="1 1 0.89803921568627453897 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_16_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_16" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_17">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor_1.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_17_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_17_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_17" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_18">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_18_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_18_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_18" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_19">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_19_visual_material">
+<color rgba="0.0078431372549019606755 0.36470588235294115753 0.82352941176470584317 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_19_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_19" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_20">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_20_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_20_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_20" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_21">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_21_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_21_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_21" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_22">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_22_visual_material">
+<color rgba="0.078431372549019606755 0.078431372549019606755 0.078431372549019606755 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_22_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_22" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_23">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smbinductor470.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_23_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_23_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_23" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_24">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_24_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_24_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_24" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_25">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_25_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_25_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_25" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_26">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor_1.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_26_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_26_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_26" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_27">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor102.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_27_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_27_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_27" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_28">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_28_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_28_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_28" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_29">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_29_visual_material">
+<color rgba="0.0078431372549019606755 0.36470588235294115753 0.82352941176470584317 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_29_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_29" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_30">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_30_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_30_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_30" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_31">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smds537diode.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_31_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_31_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_31" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_32">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_32_visual_material">
+<color rgba="0.0078431372549019606755 0.36470588235294115753 0.82352941176470584317 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_32_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_32" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_33">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd220uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_33_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_33_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_33" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_34">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_34_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_34_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_34" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_35">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdled.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_35_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_35_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_35" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_36">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smbinductor470.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_36_visual_material">
+<color rgba="0.11764705882352941013 0.11764705882352941013 0.11764705882352941013 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_36_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_36" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_37">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///trimmerw203.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_37_visual_material">
+<color rgba="0.0078431372549019606755 0.36470588235294115753 0.82352941176470584317 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_37_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_37" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_38">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor102.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_38_visual_material">
+<color rgba="0.11764705882352941013 0.11764705882352941013 0.11764705882352941013 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_38_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_38" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_39">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor_1.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_39_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_39_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_39" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_40">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_40_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_40_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_40" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_41">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdceramiccapacitor.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_41_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_41_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_41" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_42">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smd100uf.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_42_visual_material">
+<color rgba="0.89803921568627453897 0.92156862745098033773 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_42_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_42" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_43">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///lm2596s.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_43_visual_material">
+<color rgba="0.11764705882352941013 0.11764705882352941013 0.11764705882352941013 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_43_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_43" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_44">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor331.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_44_visual_material">
+<color rgba="0.11764705882352941013 0.11764705882352941013 0.11764705882352941013 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_44_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_44" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_45">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor331.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_45_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_45_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_45" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_46">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.041226225060603249872 -0.062810221645185987382 -0.089676856509427887998" rpy="-0.2897260647017847468 0.17453292519943280903 -2.7240538433968377596" />
+<geometry>
+<mesh filename="package:///smdresistor102.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_46_visual_material">
+<color rgba="0.66666666666666662966 0.69803921568627447236 0.76862745098039220171 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_46_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_46" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_47">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.14436355865930347586 -0.043734347644674063937 -0.07965815597854547514" rpy="-2.6991769814727217813 -0.1745329251994363895 0.4175388101929624618" />
+<geometry>
+<mesh filename="package:///blue_wheel_frame.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_47_visual_material">
+<color rgba="0 0.50196078431372548323 1 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_47_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_47" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_48">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.14453493206363229873 -0.043349635347440303168 -0.07965449661718279617" rpy="1.7453359078730392717 0.0086886310093941456628 -1.1517254373766112607" />
+<geometry>
+<mesh filename="package:///65mm_tire.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_48_visual_material">
+<color rgba="0.30196078431372547213 0.30196078431372547213 0.30196078431372547213 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_48_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_48" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="blue_wheel_with_adapter_49">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.14139310161515186715 -0.042415992193645446484 -0.079085160213732338952" rpy="1.7458942850595355889 -0.07994709484060569249 -1.1673849268380422917" />
+<geometry>
+<mesh filename="package:///motor_adapter.stl"/>
+</geometry>
+<material name="blue_wheel_with_adapter_49_visual_material">
+<color rgba="1 0.87058823529411766273 0.52941176470588235947 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="blue_wheel_with_adapter_49_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="blue_wheel_with_adapter" />
+<child link="blue_wheel_with_adapter_49" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3">
+<collision>
+<origin xyz="0.010832627857486870626 0.14924225507775451538 0.069060358636446397829" rpy="1.5707963267948983344 -1.5707963150516213169 0" />
+<geometry>
+<mesh filename="package:///18650.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.0054322836363635135237 0.11938799999999991086 0.06818659999999684973" rpy="3.1415926535897891192 9.6260590026678883874e-15 1.57079632679489678" />
+<geometry>
+<mesh filename="package:///bk-18650-pc4.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.0069322836363634385282 0.063888000000000486067 0.06818679920660936089" rpy="-1.5390865315070956477e-15 1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///lm2596board.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="-0.0054322836363634996459 0.10325000000000003619 0.068186599999996960753" rpy="1.5707963267948952257 1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///battery_mount.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="0.0025677163636363964372 0.028250000000000545508 0.11613659999999846606" rpy="-1.5707963267948983344 1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///column.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="0.0025677163636363825594 0.16824999999999953881 0.068186599999996447274" rpy="1.5707963267948985564 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///electronics_mount.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="0.0025677163636364033761 0.02824999999999977876 0.020236599999999826949" rpy="-1.5707963267948945596 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///column.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="0.011901861932243983089 0.14923079188623181168 0.050649602767023793604" rpy="1.5707963267948976682 -1.5707963235847535177 0" />
+<geometry>
+<mesh filename="package:///18650.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="0.0025677163636363894983 0.018250000000000276418 0.06818659999999911181" rpy="-1.5707963267948941155 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///wheel_mount.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="0.002567716363636340926 0.18903999999999898662 0.068186599999997363208" rpy="-1.5707963267948588104 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///raspberry_pi_zero_2_w.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="6.9388939039072283776e-18 5.2041704279304212832e-18 0.0054500000000000103917" rpy="3.141592653589793116 -2.9177917204856942279e-18 5.8341871111604151549e-17" />
+<geometry>
+<mesh filename="package:///dc_motor_2.stl"/>
+</geometry>
+</collision>
+<collision>
+<origin xyz="6.9388939039072283776e-18 0.016749999999999983652 0.021186599999999569666" rpy="3.1415926535897775729 -7.3482514978816425903e-15 1.7115210217722192784e-15" />
+<geometry>
+<mesh filename="package:///dc_motor_bracket.stl"/>
+</geometry>
+</collision>
+<inertial>
+<origin xyz="0.00097637777269162103443 0.09913390439343250371 0.068186590471959740434" rpy="0 0 0"/>
+<mass value="0.41526385480267663519" />
+<inertia ixx="0.0017208150862472002419" ixy="2.4510802466124876657e-06"  ixz="-4.130411665230148666e-11" iyy="0.00078826063205035947021" iyz="1.1993800417045549383e-08" izz="0.00099954076436670484702" />
+</inertial>
+<visual><geometry><box size="0 0 0" /></geometry></visual>
+</link>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_1">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.010832627857486870626 0.14924225507775451538 0.069060358636446397829" rpy="1.5707963267948983344 -1.5707963150516213169 0" />
+<geometry>
+<mesh filename="package:///18650.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_1_visual_material">
+<color rgba="0.70196078431372543882 0.70196078431372543882 0.70196078431372543882 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_1_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_1" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_2">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.0054322836363635135237 0.11938799999999991086 0.06818659999999684973" rpy="3.1415926535897891192 9.6260590026678883874e-15 1.57079632679489678" />
+<geometry>
+<mesh filename="package:///bk-18650-pc4.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_2_visual_material">
+<color rgba="0.50588235294117644969 0.53333333333333332593 0.54901960784313730279 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_2_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_2" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_3">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.0069322836363634385282 0.063888000000000486067 0.06818679920660936089" rpy="-1.5390865315070956477e-15 1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///lm2596board.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_3_visual_material">
+<color rgba="0 0.41176470588235292158 0.68627450980392157298 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_3_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_3" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_4">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="-0.0054322836363634996459 0.10325000000000003619 0.068186599999996960753" rpy="1.5707963267948952257 1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///battery_mount.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_4_visual_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_4_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_4" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_5">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.0025677163636363964372 0.028250000000000545508 0.11613659999999846606" rpy="-1.5707963267948983344 1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///column.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_5_visual_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_5_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_5" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_6">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.0025677163636363825594 0.16824999999999953881 0.068186599999996447274" rpy="1.5707963267948985564 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///electronics_mount.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_6_visual_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_6_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_6" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_7">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.0025677163636364033761 0.02824999999999977876 0.020236599999999826949" rpy="-1.5707963267948945596 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///column.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_7_visual_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_7_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_7" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_8">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.011901861932243983089 0.14923079188623181168 0.050649602767023793604" rpy="1.5707963267948976682 -1.5707963235847535177 0" />
+<geometry>
+<mesh filename="package:///18650.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_8_visual_material">
+<color rgba="0.70196078431372543882 0.70196078431372543882 0.70196078431372543882 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_8_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_8" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_9">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.0025677163636363894983 0.018250000000000276418 0.06818659999999911181" rpy="-1.5707963267948941155 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///wheel_mount.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_9_visual_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_9_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_9" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_10">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="0.002567716363636340926 0.18903999999999898662 0.068186599999997363208" rpy="-1.5707963267948588104 -1.5707963267948896746 0" />
+<geometry>
+<mesh filename="package:///raspberry_pi_zero_2_w.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_10_visual_material">
+<color rgba="0.91764705882352937127 0.91764705882352937127 0.91764705882352937127 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_10_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_10" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_11">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="6.9388939039072283776e-18 5.2041704279304212832e-18 0.0054500000000000103917" rpy="3.141592653589793116 -2.9177917204856942279e-18 5.8341871111604151549e-17" />
+<geometry>
+<mesh filename="package:///dc_motor_2.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_11_visual_material">
+<color rgba="1 1 1 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_11_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_11" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<link name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_12">
+<inertial>
+<origin xyz="0 0 0" rpy="0 0 0" />
+<mass value="1e-9" />
+<inertia ixx="0" ixy="0" ixz="0" iyy="0" iyz="0" izz="0" />
+</inertial>
+<visual>
+<origin xyz="6.9388939039072283776e-18 0.016749999999999983652 0.021186599999999569666" rpy="3.1415926535897775729 -7.3482514978816425903e-15 1.7115210217722192784e-15" />
+<geometry>
+<mesh filename="package:///dc_motor_bracket.stl"/>
+</geometry>
+<material name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_12_visual_material">
+<color rgba="0.77647058823529413463 0.7568627450980391913 0.73725490196078435901 1.0"/>
+</material>
+</visual>
+</link>
+<joint name="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_12_fixing" type="fixed">
+<origin xyz="0 0 0" rpy="0 -0 0" />
+<parent link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3_12" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+<joint name="wheel_r" type="continuous">
+<origin xyz="-0.13058430347221353096 -0.037638691738482936422 -0.077000082819002377277" rpy="-1.0178274801016489182 -1.2338332912536882358 -1.6807011919576870795" />
+<parent link="blue_wheel_with_adapter" />
+<child link="25ga-370-12v-16-rpm-dc-gear-motor-1.snapshot.3" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+
+</robot>
