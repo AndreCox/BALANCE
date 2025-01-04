@@ -1,36 +1,60 @@
 import lcm
 import time
 import sys
+import threading
+from simple_pid import PID  # You can use an external PID library or implement your own
 
 sys.path.append('../')
 import LCM.wheels_lcm as wheels_lcm
+import LCM.imu_lcm as imu_lcm
 
-def ramp_speed():
+# Global variable to store IMU data
+imu_data = None
+lock = threading.Lock()
+
+
+def imu_handler(channel, data):
+    global imu_data
+    msg = imu_lcm.imu_t.decode(data)
+    with lock:
+        imu_data = msg
+
+
+def control_loop():
+    global imu_data
+
     lc = lcm.LCM()
+    lc.subscribe("IMU", imu_handler)
 
-    # Ramp parameters
-    ramp_duration = 10.0  # Time to ramp from -1 to 1 in seconds
-    step_interval = 0.05  # Time between steps in seconds
+    # PID Controller parameters
+    Kp = 1.0  # Proportional gain
+    Ki = 0.1  # Integral gain
+    Kd = 0.05  # Derivative gain
 
-    # Calculate the step size for each interval
-    steps = int(ramp_duration / step_interval)
-    speed_step = 2.0 / steps  # Covers the range -1 to 1
+    pid = PID(Kp, Ki, Kd, setpoint=0.0)  # Setpoint is upright (0 tilt)
+    pid.output_limits = (-1.0, 1.0)  # Speed limits for motors
 
     try:
         while True:
-            # Ramp up from -1 to 1
-            for i in range(steps + 1):
-                speed = -1.0 + i * speed_step
-                publish_speed(lc, speed, speed)
-                time.sleep(step_interval)
+            lc.handle_timeout(10)  # Poll LCM messages
 
-            # Ramp down from 1 to -1
-            for i in range(steps + 1):
-                speed = 1.0 - i * speed_step
-                publish_speed(lc, speed, speed)
-                time.sleep(step_interval)
+            with lock:
+                if imu_data is None:
+                    continue
+                tilt_error = imu_data.gyro[2]  # Use z-axis gyro as tilt feedback
+
+            # Compute PID output
+            correction = pid(tilt_error)
+
+            # Apply correction to wheel speeds
+            left_speed = correction
+            right_speed = -correction
+
+            publish_speed(lc, left_speed, right_speed)
+
+            time.sleep(0.05)  # Control loop interval
     except KeyboardInterrupt:
-        print("Ramp test interrupted.")
+        print("Balancing interrupted.")
     finally:
         # Stop the motors
         publish_speed(lc, 0.0, 0.0)
@@ -46,5 +70,6 @@ def publish_speed(lc, speed_l, speed_r):
     print(f"Publishing speed: Left = {speed_l}, Right = {speed_r}")
     lc.publish("WHEELS", msg.encode())
 
+
 if __name__ == "__main__":
-    ramp_speed()
+    control_loop()
