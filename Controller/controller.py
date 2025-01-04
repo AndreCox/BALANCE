@@ -31,6 +31,9 @@ def ramp_speed():
                 time.sleep(step_interval)
     except KeyboardInterrupt:
         print("Ramp test interrupted.")
+    finally:
+        # Stop the motors
+        publish_speed(lc, 0.0, 0.0)
 
 
 def publish_speed(lc, speed_l, speed_r):

@@ -54,8 +54,8 @@ def wheels_handler(channel, data):
     print(f"Received speed: Left = {speed_l}, Right = {speed_r}")
 
     # Convert the -1 to 1 speed into 0 to 100 PWM duty cycle
-    pwm_left_duty = (speed_l + 1) * 50  # Mapping [-1, 1] to [0, 100]
-    pwm_right_duty = (speed_r + 1) * 50  # Mapping [-1, 1] to [0, 100]
+    pwm_left_duty = abs(speed_l) * 100  # Mapping [-1, 1] to [0, 100]
+    pwm_right_duty = abs(speed_r) * 100  # Mapping [-1, 1] to [0, 100]
 
     print(f"Setting PWM: Left = {pwm_left_duty}, Right = {pwm_right_duty}")
 
