@@ -11,7 +11,7 @@ lc = lcm.LCM()
 
 # Motor control GPIO pins
 int_r = [26, 19]  # Right motor control pins
-int_l = [20, 21]  # Left motor control pins
+int_l = [20, 16]  # Left motor control pins
 
 # Setup GPIO for BCM mode
 GPIO.setmode(GPIO.BCM)
