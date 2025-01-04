@@ -1,5 +1,8 @@
 import lcm
 import time
+import sys
+
+sys.path.append('../')
 import LCM.wheels_lcm as wheels_lcm
 
 def ramp_speed():
