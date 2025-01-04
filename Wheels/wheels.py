@@ -20,9 +20,19 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(int_r, GPIO.OUT)
 GPIO.setup(int_l, GPIO.OUT)
 
+p1 = GPIO.PWM(int_r[0], 100)
+p2 = GPIO.PWM(int_r[1], 100)
+p3 = GPIO.PWM(int_l[0], 100)
+p4 = GPIO.PWM(int_l[1], 100)
+
+p1.start(0)
+p2.start(0)
+p3.start(0)
+p4.start(0)
+
 # Set up PWM on the motor pins with 100Hz frequency (you can adjust this)
-pwm_r = [GPIO.PWM(int_r[0], 100), GPIO.PWM(int_r[1], 100)]
-pwm_l = [GPIO.PWM(int_l[0], 100), GPIO.PWM(int_l[1], 100)]
+pwm_r = [p1, p2]
+pwm_l = [p3, p4]
 
 # Start PWM with 0% duty cycle (motors off)
 pwm_r[0].start(0)
